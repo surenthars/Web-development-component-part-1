@@ -1,4 +1,4 @@
-# 🖥️ Web Development Basics – Part 1
+# 🖥️ Web Development Basics – Part 1 
 
 Welcome to **Part 1** of the Web Development Basics series – a beginner-friendly guide to the foundational concepts that power the web. Before diving into HTML, CSS, or JavaScript, it's crucial to understand the "big picture" of how the web works.
 
